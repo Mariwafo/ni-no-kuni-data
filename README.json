@@ -10,15 +10,15 @@
     "PrivacyUrl": "https://www.ebay.com.au/",
     "adsType": [
       "unityAd",
-      "unityAd",
+      "facebook",
       "Applovin",
       "iron"
     ],
     "nativeType": [
-      "Admob",
-      "Admob",
-      "Admob",
-      "Admob"
+      "Applovin",
+      "AppsPromote",
+      "facebook",
+      "AppsPromote"
     ],
     "isList": true,
     "moreAppsEnabled": true
@@ -44,24 +44,24 @@
     "RewardOn": true
   },
   "facebook": {
-    "Banner": "ca-app-pub-3940256099942544/6300978111",
-    "Inter": "ca-app-pub-3940256099942544/1033173712",
-    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "Banner": "1054288528850258_1054289185516859",
+    "Inter": "1054288528850258_1054288952183549",
+    "Native": "1054288528850258_1054289305516847",
     "Reward": "ca-app-pub-3940256099942544/5224354917",
     "BannerOn": true,
     "InterOn": true,
     "NativeOn": true,
     "RewardOn": true
   },
-  "unityId": "4774877",
-  "IronKey": "1114a0b95",
+  "unityId": "4784569",
+  "IronKey": "1518ef8b1",
   "isUnityOn": true,
   "TestUnity": false,
   "ApplovinInterEnabled": true,
   "applovin": {
-    "Banner": "2247696110",
-    "Inter": "2247696110",
-    "Native": "2247696110",
+    "Banner": "81442deac0acc662",
+    "Inter": "4bd0636976234316",
+    "Native": "31bac3ed086da3f8",
     "Reward": "",
     "BannerOn": true,
     "InterOn": true,
@@ -126,66 +126,66 @@
   "items": [
     {
       "name": "title1",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Start your journey to 『Ni no Kuni: Cross Worlds』!"
     },
     {
       "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Directed and produced by [Level-5], and featuring animation from [Studio Ghibli] and music by composer [Joe Hisaishi]"
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title3",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "a talented team unites to create the newest installment in the [Ni no Kuni] game series, 『Ni no Kuni: Cross Worlds』, the world inside your heart!"
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title4",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": " A story where reality and fantasy collide. A grand journey awaits you upon arriving in another world via the virtual reality game [Soul Divers]."
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title5",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Experience the epic that unfolds in 『Ni no Kuni: Cross Worlds』, where endless adventures await."
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title6",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": " An open world indistinguishable from an animated film. Beautiful graphics rendered in the Unreal 4 Engine."
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title7",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Catch every carefully-crafted expression and action in this breathtaking world!"
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title8",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Customizable player characters show your individuality. Choose from the mysterious fencer [Swordsman], the magic spear-wielding [Witch]"
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title9",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "the genius gunner [Engineer], the mischievous archer [Rogue], and brawny hammer-swinging [Destroyer]Who would you like to become in 『Ni no Kuni: Cross Worlds』?"
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title10",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": " Your helpful protectors, Familiars! Meet the mysterious creatures unique to 『Ni no Kuni: Cross Worlds』."
     },
     {
-      "name": "title2",
-      "img": "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
-      "content": "Help Jake, Tricky & Fresh escape from the grumpy"
+      "name": "title11",
+      "img": "https://i.postimg.cc/130QgczY/photo1.jpg",
+      "content": "Their cuteness hides incredible strength! Collect [Familiars] and get stronger together."
     }
   ],
   "AppsPromote": [
     {
-      "name": "Clash Royale",
-      "packageName": "com.supercell.clashroyale",
+      "name": "Get a $1000 Paypal Gift Card to Spend!",
+      "packageName": "https://grptrk.com/show.php?l=0&u=556135&id=36877&tracking_id=",
       "icon": "https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ=s180",
-      "preview": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310",
+      "preview": "https://i.postimg.cc/vmFjKprL/cpa-image.jpg",
       "shortDescription": "Play Now !",
       "screenShot": [
         "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
