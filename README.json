@@ -10,15 +10,15 @@
     "PrivacyUrl": "https://sites.google.com/view/guide-nino/home",
     "adsType": [
       "unityAd",
-      "facebook",
+      "unityAd",
       "Applovin",
       "iron"
     ],
     "nativeType": [
-      "Applovin",
-      "AppsPromote",
-      "facebook",
-      "AppsPromote"
+      "admob",
+      "admob",
+      "admob",
+      "admob"
     ],
     "isList": true,
     "moreAppsEnabled": true
